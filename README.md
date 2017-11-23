@@ -1,0 +1,2 @@
+# Kinect2_ROS
+在ROS系统下采集Kinect2的彩色图和深色图
